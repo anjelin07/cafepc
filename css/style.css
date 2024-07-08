@@ -1,4 +1,3 @@
-
 body {
   font-family: "Lato", sans-serif;
   font-size: 15px;
@@ -18,6 +17,7 @@ a {
   transition: 0.7s;
   color: inherit;
 }
+
 .container {
   width: 88%;
   max-width: 1080px;
@@ -272,6 +272,7 @@ button, .button {
 .hero__title {
   color: inherit;
   margin-bottom: 1.25em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .hero__text {
@@ -279,6 +280,7 @@ button, .button {
   line-height: 1.7;
   text-align: left;
   font-size: 1.1em;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 .hero .button {
